@@ -1,0 +1,26 @@
+#r = range (0,10)
+r = range(2,10,2)
+print(type(r))
+for i in range(2,10,2):
+    print(i)
+f = frozenset ([11,22,33,44,55,66,22,33,77])
+print(type(f)) 
+print(f) 
+#opeators in python
+#airthmetc operators
+a = 8
+b = 4
+c = a+b
+c = a*b
+c = a/b
+c = a-b
+#exponential
+a = 3
+b = 4
+c = a**b
+print(c)
+#floor division
+a = 14
+b = 3
+c = a//b
+print(c)

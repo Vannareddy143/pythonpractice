@@ -1,0 +1,24 @@
+
+# while loop:
+#     syntax:
+#     statement x
+# #     while condition:
+# #         statement_block
+# #     statement x
+
+
+# i =0
+# while i <=10:
+#     print (i)
+#     i=i+1
+# i = 1 # initialization
+# while i<=10: #condition
+
+#     print (i)
+#     i = i+ 1 #update
+# wap to print numbers from 10 to 1
+
+# i = 10 #initialization
+# while i>=1: #condition
+#     print (i)
+#     i = i- 1 #update

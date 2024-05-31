@@ -1,0 +1,41 @@
+number = 6
+if number > 5:
+    # Calculate square
+    print(number * number)
+    print('Next lines of code')
+
+    
+
+
+age=12
+if age>18:
+    print('you can drive') 
+else:
+    print('you cannot drive')
+print('welcome to drive')  
+
+#wap to find largest number
+a =eval(input('Enter first number: '))
+b =eval(input('Enter second number: '))
+c =eval(input('Enter third number: '))
+if a>b:
+    if a>c:
+        print(a, 'is the largest number')
+    else:
+        print(c,'is the largest number')
+if b>c:
+    print(b, 'is the largest number')
+else:
+    print(c, 'is the largest number')
+
+
+    age =eval(input('Enter your age'))
+if age >=18:
+    print('you are an adult')
+    print('you can vote')
+elif age <18 and age>3:
+    print('you are in school')
+else:
+    print('you are chlid')
+print('great welcome')
+
